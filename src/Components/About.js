@@ -1,10 +1,11 @@
 import HeroImg from "../assets/hero.jpg";
+import AboutImg from "../assets/About.jpg";
 
 export default function About() {
   return (
     <div
-      className="flex md:h-screen bg-cover bg-center flex-col items-center justify-center px-4"
-      style={{ backgroundImage: `url(${HeroImg})` }}
+      className="flex md:h-screen bg-cover bg-center flex-col items-center justify-center px-4 md:h-screen"
+      style={{ backgroundImage: `url(${AboutImg})` }}
     >
       <h1 className="pt-20 text-4xl text-white text-center mb-5">ABOUT</h1>
 

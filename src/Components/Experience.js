@@ -1,9 +1,9 @@
-import HeroImg from "../assets/hero.jpg";
+import ExperienceImg from "../assets/experience.png";
 
 export default function Experience() {
   return (
     <div
-      style={{ backgroundImage: `url(${HeroImg})` }}
+      style={{ backgroundImage: `url(${ExperienceImg})` }}
       className="bg-cover md:h-screen bg-center"
     >
       <h1 className="pt-20 text-4xl text-white text-center mb-5">
