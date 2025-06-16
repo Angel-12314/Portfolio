@@ -62,7 +62,7 @@ export default function Projects() {
             <h2 className="text-xl font-bold">Web Phishing Detection</h2>
             <br/>
             <img
-                src="../assets/web-Phishing-Detection.gif"
+                src="../assets/Web-Phishing-Detection.gif"
                 alt="Loading..."
                 className="w-full h-[250px]"
             />
@@ -94,7 +94,7 @@ export default function Projects() {
             <div className="mt-auto flex justify-center">
                 <button className="bg-[#7800ff] text-white rounded-lg shadow-md px-3 py-1 md:w-[200px] mr-auto ml-1 hover:bg-blue-700 w-[130px] hover:text-white">Demo</button>
                 <a
-                    href="https://github.com/Angel-12314/Web-Phishing-Detection.gif"
+                    href="https://github.com/Angel-12314/Web-Phishing-Detection"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-[#7800ff] text-white rounded-lg shadow-md px-3 py-1 md:w-[200px] ml-auto mr-1 hover:bg-blue-700 w-[130px] hover:text-white text-center inline-block"
