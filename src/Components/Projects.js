@@ -94,7 +94,7 @@ export default function Projects() {
             <div className="mt-auto flex justify-center">
                 <button className="bg-[#7800ff] text-white rounded-lg shadow-md px-3 py-1 md:w-[200px] mr-auto ml-1 hover:bg-blue-700 w-[130px] hover:text-white">Demo</button>
                 <a
-                    href="https://github.com/Angel-12314/Web-Phishing-Detection"
+                    href="https://github.com/Angel-12314/Web-Phishing-Detection.gif"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-[#7800ff] text-white rounded-lg shadow-md px-3 py-1 md:w-[200px] ml-auto mr-1 hover:bg-blue-700 w-[130px] hover:text-white text-center inline-block"
