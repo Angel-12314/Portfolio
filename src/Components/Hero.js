@@ -1,5 +1,4 @@
 import HeroImg from "../assets/hero.jpg";
-import Hero2Img from "../assets/hero2.png"
 import { BsLinkedin } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
