@@ -13,7 +13,7 @@ export default function Experience() {
       <div className="flex justify-center px-4">
         <div className="flex flex-col md:flex-row gap-4 p-4 mt-5 max-w-[1600px] w-full">
           <div className="bg-white/80 p-6 rounded-lg shadow-md h-auto w-full md:w-[500px] text-center">
-            <h2 className="text-xl font-bold">Health Mudraa @support</h2>
+            <h2 className="text-xl font-bold">Health Mudraa Pvt Ltd</h2>
             <p className="flex justify-between font-bold">
               Software Developer Intern
               <div className="pr-0 font-bold">Nov-2024 - Present</div>

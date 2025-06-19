@@ -1,4 +1,9 @@
-import SkillsImg from "../assets/skills.webp";
+import SkillsImg from "../assets/About.jpg";
+import LanguageIcon from '@mui/icons-material/Language';
+import StorageIcon from '@mui/icons-material/Storage';
+import CodeIcon from '@mui/icons-material/Code';
+import BuildIcon from '@mui/icons-material/Build';
+import WebAssetIcon from '@mui/icons-material/WebAsset';
 
 export default function Skills() {
   return (
@@ -6,7 +11,7 @@ export default function Skills() {
       style={{ backgroundImage: `url(${SkillsImg})` }}
       className="bg-cover md:h-screen bg-center"
     >
-      <h1 className="pt-20 text-4xl text-white text-center mb-5">SKILLS</h1>
+      <h1 className="pt-20 text-4xl  text-center mb-5 "><span className="px-5 w-auto text-black bg-white/80 rounded-lg">SKILLS</span></h1>
       <div className="flex h-auto md:h-auto justify-center px-4">
         <div className="rounded-lg shadow-md bg-white/80 p-5 w-full max-w-4xl mt-5 mb-5">
           

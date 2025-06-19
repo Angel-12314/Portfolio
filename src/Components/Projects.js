@@ -13,7 +13,7 @@ export default function Projects() {
         Projects
       </h1>
 
-      <div className="flex justify-center px-4">
+      <div className="flex justify-center px-4 pb-20">
         <div className="flex flex-col md:flex-row gap-4 p-4 mt-5 max-w-[1600px] w-full ">
           <div className="flex flex-col bg-white/80 p-6 rounded-lg shadow-md min-h-[250px] w-full md:w-[500px] text-center">
             <h2 className="text-xl font-bold">Ecommerce Application</h2>
