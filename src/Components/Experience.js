@@ -52,7 +52,7 @@ export default function Experience() {
             <h2 className="text-xl font-bold">Wipro</h2>
             <p className="flex justify-between font-bold">
               Associate Analyst
-              <div className="pr-0 font-bold">Jun-2024 - Aug-2024</div>
+              <div className="pr-0 font-bold">Jun-2023 - Aug-2024</div>
             </p>
             <ul className="text-left list-disc">
               <li>
