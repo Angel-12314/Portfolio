@@ -24,8 +24,8 @@ function App() {
           projectsRef,
         }}/>
       <div ref={homeRef}><Hero /></div>
-      <div ref={skillsRef}><Skills /></div>
       <div ref={aboutRef}><About /></div>
+      <div ref={skillsRef}><Skills /></div>
       <div ref={experienceRef}><Experience /></div>
       <div ref={projectsRef}><Projects /></div>
       
