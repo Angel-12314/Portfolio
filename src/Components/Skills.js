@@ -68,6 +68,19 @@ export default function Skills() {
               <li className="bg-pink-500 rounded-lg shadow-md px-3 mr-4 mb-2">PyCharm</li>
             </ul>
           </div>
+          <br />
+          {/* Soft Skills */}
+          <div className="w-full">
+            <h2 className="text-xl font-bold">Soft Skills</h2>
+            <br className="hidden md:block"/>
+            <ul className="flex flex-wrap text-left">
+              <li className="bg-green-500 rounded-lg shadow-md px-3 mr-4 mb-2">Communication</li>
+              <li className="bg-blue-500 rounded-lg shadow-md px-3 mr-4 mb-2">Problem-Solving</li>
+              <li className="bg-violet-500 rounded-lg shadow-md px-3 mr-4 mb-2">Creativity</li>
+              <li className="bg-pink-500 rounded-lg shadow-md px-3 mr-4 mb-2">teamwork</li>
+              <li className="bg-green-500 rounded-lg shadow-md px-3 mr-4 mb-2">leadership</li>
+            </ul>
+          </div>
 
         </div>
       </div>
