@@ -33,7 +33,22 @@ export default function Header() {
                     <a className="pr-5 hover:text-5xl hover:text-blue-700" href="angelpriyankag.14@gmail.com"
                     ><MdEmail /></a>
                 </div>
+                <br/>
+                <div>
+                <a
+                    href="https://drive.google.com/uc?export=download&id=1D_eC088EVM-aSOa_gvJO5QIgU2wI56vT"
+                    download
+                    className="flex items-center gap-2 bg-primary max-w-[230px] text-xl text-white px-4 py-2 rounded-md shadow-md hover:bg-blue-600"
+                    >
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M7 10l5 5m0 0l5-5m-5 5V4"/>
+                    </svg>
+                    <span className="w-auto">Download Resume</span>
+                    
+                </a>
+                </div>
                 
+
             </h1>
             
         
