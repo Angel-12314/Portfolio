@@ -11,7 +11,7 @@ export default function Skills() {
       style={{ backgroundImage: `url(${SkillsImg})` }}
       className="bg-cover md:h-screen bg-center"
     >
-      <h1 className="pt-20 text-4xl  text-center mb-5 "><span className="px-5 w-auto text-black bg-white/80 rounded-lg">SKILLS</span></h1>
+      <h1 className="pt-10 text-4xl  text-center mb-5 "><span className="px-5 w-auto text-black bg-white/80 rounded-lg">SKILLS</span></h1>
       <div className="flex h-auto md:h-auto justify-center px-4">
         <div className="rounded-lg shadow-md bg-white/80 p-5 w-full max-w-4xl mt-5 mb-5">
           
