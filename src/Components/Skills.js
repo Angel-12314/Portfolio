@@ -66,7 +66,7 @@ export default function Skills() {
             <ul className="flex flex-wrap text-left">
               <li className="bg-gradient-to-r from-lime-500 to-green-700 rounded-lg shadow-md px-3 mr-4 mb-2">VS Code</li>
               <li className="bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg shadow-md px-3 mr-4 mb-2">Github</li>
-              <li className="bg-gradient-to-r from-[#001bff] to-[#0097ff] to-pink-500 rounded-lg shadow-md px-3 mr-4 mb-2">PyCharm</li>
+              <li className="bg-gradient-to-r from-[#001bff] to-[#0097ff] rounded-lg shadow-md px-3 mr-4 mb-2">PyCharm</li>
             </ul>
           </div>
           <br />
