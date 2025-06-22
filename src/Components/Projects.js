@@ -50,7 +50,7 @@ export default function Projects() {
                     href="https://github.com/Angel-12314/Yoga-product-ecommerce"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="bg-[#7800ff] text-white rounded-lg shadow-md px-3 py-1 md:w-[200px] ml-auto mr-auto hover:bg-blue-700 w-[130px] hover:text-white text-center inline-block"
+                    className="bg-gradient-to-r from-[#001bff] to-[#0097ff] text-white rounded-lg shadow-md px-3 py-1 w-[200px] ml-auto mr-auto hover:from-[#aa00ff] hover:to-[#c45ffa] hover:text-white text-center inline-block transition-all duration-300 ease-in-out"
                 >
                     Code
                 </a>
@@ -97,7 +97,7 @@ export default function Projects() {
                     href="https://github.com/Angel-12314/Web-Phishing-Detection"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="bg-[#7800ff] text-white rounded-lg shadow-md px-3 py-1 md:w-[200px] ml-auto mr-auto hover:bg-blue-700 w-[130px] hover:text-white text-center inline-block"
+                    className="bg-gradient-to-r from-[#001bff] to-[#0097ff] text-white rounded-lg shadow-md px-3 py-1 w-[200px] ml-auto mr-auto hover:from-[#aa00ff] hover:to-[#c45ffa] hover:text-white text-center inline-block transition-all duration-300 ease-in-out"
                 >
                     Code
                 </a>
@@ -141,7 +141,7 @@ export default function Projects() {
                     href="https://github.com/Angel-12314/Credit-Card-Fraud-Transaction-Detection-In-Banking-System"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="bg-[#7800ff] text-white rounded-lg shadow-md px-3 py-1 md:w-[200px] ml-auto mr-auto hover:bg-blue-700 w-[130px] hover:text-white text-center inline-block"
+                    className="bg-gradient-to-r from-[#001bff] to-[#0097ff] text-white rounded-lg shadow-md px-3 py-1 w-[200px] ml-auto mr-auto hover:from-[#aa00ff] hover:to-[#c45ffa] hover:text-white text-center inline-block transition-all duration-300 ease-in-out"
                 >
                     Code
                 </a>
