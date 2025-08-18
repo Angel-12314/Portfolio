@@ -16,7 +16,7 @@ export default function Experience() {
             <h2 className="text-xl font-bold">Health Mudraa Pvt Ltd</h2>
             <p className="flex justify-between font-bold">
               Software Developer Intern
-              <div className="pr-0 font-bold">Nov-2024 - Present</div>
+              <div className="pr-0 font-bold">Nov-2024 - Jun-2025</div>
             </p>
             <ul className="text-left list-disc">
               <li>
