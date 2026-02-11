@@ -17,19 +17,21 @@ export default function Skills() {
           
           {/* Web Tech */}
           <div className="w-full">
-            <h2 className="text-xl font-bold">Web Technology</h2>
+            <h2 className="text-xl font-bold">Web Technology/Programming Language</h2>
             <br className="hidden md:block"/>
             <ul className="flex flex-wrap text-left">
               <li className="bg-gradient-to-r from-lime-500 to-green-700 rounded-lg shadow-md px-3 mr-4 mb-2">HTML</li>
               <li className="bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg shadow-md px-3 mr-4 mb-2">CSS3</li>
-              <li className="bg-gradient-to-r from-[#b900ff] to-[#da78ff] rounded-lg shadow-md px-3 mr-4 mb-2">Python</li>
-              <li className="bg-gradient-to-r from-[#001bff] to-[#0097ff] rounded-lg shadow-md px-3 mr-4 mb-2">JavaScript</li>
+              <li className="bg-gradient-to-r from-[#b900ff] to-[#da78ff] rounded-lg shadow-md px-3 mr-4 mb-2">Core Java</li>
+              <li className="bg-gradient-to-r from-[#001bff] to-[#0097ff] rounded-lg shadow-md px-3 mr-4 mb-2">Python</li>
+              <li className="bg-gradient-to-r from-[#f97bcf] to-[#ff00aa] rounded-lg shadow-md px-3 mr-4 mb-2">JavaScript</li>
               <li className="bg-gradient-to-r from-[#b900ff] to-[#da78ff] rounded-lg shadow-md px-3 mr-4 mb-2">React JS</li>
-              <li className="bg-gradient-to-r from-[#001bff] to-[#0097ff] rounded-lg shadow-md px-3 mr-4 mb-2">Next JS</li>
-              <li className="bg-gradient-to-r from-[#f97bcf] to-[#ff00aa] rounded-lg shadow-md px-3 mr-4 mb-2">Node JS</li>
+              <li className="bg-gradient-to-r from-[#f97bcf] to-[#ff00aa] rounded-lg shadow-md px-3 mr-4 mb-2">Next JS</li>
+              <li className="bg-gradient-to-r from-[#001bff] to-[#0097ff] rounded-lg shadow-md px-3 mr-4 mb-2">Node JS</li>
               <li className="bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg shadow-md px-3 mr-4 mb-2">Express JS</li>
               <li className="bg-gradient-to-r from-[#b900ff] to-[#da78ff] rounded-lg shadow-md px-3 mr-4 mb-2">Redux</li>
               <li className="bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg shadow-md px-3 mr-4 mb-2">API</li>
+              
             </ul>
           </div>
 
@@ -41,6 +43,7 @@ export default function Skills() {
             <br className="hidden md:block"/>
             <ul className="flex flex-wrap text-left">
               <li className="bg-gradient-to-r from-lime-500 to-green-700 rounded-lg shadow-md px-3 mr-4 mb-2">MongoDB</li>
+              <li className="bg-gradient-to-r from-[#001bff] to-[#0097ff] rounded-lg shadow-md px-3 mr-4 mb-2">SQL</li>
             </ul>
           </div>
 
@@ -68,6 +71,7 @@ export default function Skills() {
               <li className="bg-gradient-to-r from-lime-500 to-green-700 rounded-lg shadow-md px-3 mr-4 mb-2">VS Code</li>
               <li className="bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg shadow-md px-3 mr-4 mb-2">Github</li>
               <li className="bg-gradient-to-r from-[#001bff] to-[#0097ff] rounded-lg shadow-md px-3 mr-4 mb-2">PyCharm</li>
+              <li className="bg-gradient-to-r from-[#b900ff] to-[#da78ff] rounded-lg shadow-md px-3 mr-4 mb-2">Eclipse</li>
             </ul>
           </div>
           <br />

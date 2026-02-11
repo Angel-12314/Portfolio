@@ -12,7 +12,7 @@ export default function Header() {
         <section className="flex px-[45px] py-32 h-1/2">
             <h1 className="w-full text-white text-4xl">Hi,
                 I am Angel Priyanka
-                <p>Full Stack Web Developer </p>
+                <p>Full Stack Developer</p>
                 <br/>
                 <div className="flex">
                     <a className="pr-5 hover:text-blue-500" href="https://www.linkedin.com/in/angel-priyanka-104ab8220 "
@@ -25,7 +25,7 @@ export default function Header() {
                     rel="noopener noreferrer">
                         <FaGithub />
                     </a>
-                    <a className="pr-5 hover:text-blue-500" href="https://leetcode.com/profile/"
+                    <a className="pr-5 hover:text-blue-500" href="https://leetcode.com/u/user3004wo/"
                     target="_blank"
                     rel="noopener noreferrer">
                         <SiLeetcode />
@@ -36,8 +36,8 @@ export default function Header() {
                 <br/>
                 <div>
                 <a
-                    //href="https://drive.google.com/uc?export=download&id=1M6H3UyrdGzB5DuVa4-AQqFiHOLH1DBb4"
-                    href="https://drive.google.com/uc?export=download&id=1D_eC088EVM-aSOa_gvJO5QIgU2wI56vT"
+                       href="https://drive.google.com/uc?export=download&id=1M6H3UyrdGzB5DuVa4-AQqFiHOLH1DBb4"
+                     //href="https://drive.google.com/uc?export=download&id=1D_eC088EVM-aSOa_gvJO5QIgU2wI56vT"                    
                     download
                     className="flex items-center gap-2 bg-primary max-w-[230px] text-xl text-white px-4 py-2 rounded-md shadow-md hover:bg-blue-800"
                     >
