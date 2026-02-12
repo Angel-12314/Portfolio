@@ -1,6 +1,6 @@
-import HeroImg from "../assets/hero.jpg";
+//import HeroImg from "../assets/hero.jpg";
 import AboutImg from "../assets/skills.webp";
-import SkillsImg from "../assets/skills.webp";
+//import SkillsImg from "../assets/skills.webp";
 export default function About() {
   return (
     <div

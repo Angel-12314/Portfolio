@@ -24,7 +24,7 @@ export default function Header({ scrollTargets }) {
   };
 
     return <header className="flex justify-between px-5 py-2 bg-primary text-white">
-        <a className="font-bold" href="#">PortFolio</a>
+        <a className="font-bold" href="/">PortFolio</a>
         <div ref={menuRef}>
         <nav className="hidden md:block">
             <ul className="flex text-white">

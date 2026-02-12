@@ -1,9 +1,9 @@
 import SkillsImg from "../assets/About.jpg";
-import LanguageIcon from '@mui/icons-material/Language';
-import StorageIcon from '@mui/icons-material/Storage';
-import CodeIcon from '@mui/icons-material/Code';
-import BuildIcon from '@mui/icons-material/Build';
-import WebAssetIcon from '@mui/icons-material/WebAsset';
+//import LanguageIcon from '@mui/icons-material/Language';
+//import StorageIcon from '@mui/icons-material/Storage';
+//import CodeIcon from '@mui/icons-material/Code';
+//import BuildIcon from '@mui/icons-material/Build';
+//import WebAssetIcon from '@mui/icons-material/WebAsset';
 
 export default function Skills() {
   return (
