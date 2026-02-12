@@ -25,7 +25,7 @@ export default function Header({ scrollTargets }) {
 
     return <header className="flex justify-between px-5 py-2 bg-primary text-white">
         <a className="font-bold" href="#">PortFolio</a>
-        
+        <div ref={menuRef}>
         <nav className="hidden md:block">
             <ul className="flex text-white">
             <li><div className="hover:text-blue-300 cursor-pointer" onClick={() => scrollTo(homeRef)}>Home</div></li>
@@ -35,7 +35,7 @@ export default function Header({ scrollTargets }) {
             <li><div className="hover:text-blue-300 cursor-pointer" onClick={() => scrollTo(projectsRef)}>Projects</div></li>
         </ul>
         </nav>
-        <div ref={menuRef}>
+        {/* <div ref={menuRef}> */}
         {toggleMenu && <nav className="block md:hidden">
             <ul className="flex  flex-col text-white mobile-nav">
                 <li><div className="hover:text-blue-300" onClick={() => scrollTo(homeRef)}>Home</div></li>
